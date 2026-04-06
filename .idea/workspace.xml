@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea2fd023-06d8-4e66-b0b9-cdecb13ab206" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/SOLID/1_S_SingleResponsiblityPrinciple/1.SRP_Voilated.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/1_S_SingleResponsiblityPrinciple/1.SRP_Voilated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/1_S_SingleResponsiblityPrinciple/2.SRP_Followed.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/1_S_SingleResponsiblityPrinciple/2.SRP_Followed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/2_O_OpenClosePrinciple/1.OCP_Voilated.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/2_O_OpenClosePrinciple/1.OCP_Voilated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/2_O_OpenClosePrinciple/2.OCP_Followed.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/2_O_OpenClosePrinciple/2.OCP_Followed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/3_L_LiskovSubstitutionPrinciple/1.LSP_Voilated.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/3_L_LiskovSubstitutionPrinciple/1.LSP_Voilated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/3_L_LiskovSubstitutionPrinciple/2.LSP_Wrongly_Followed.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/3_L_LiskovSubstitutionPrinciple/2.LSP_Wrongly_Followed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/3_L_LiskovSubstitutionPrinciple/3.LSP_Followed.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/3_L_LiskovSubstitutionPrinciple/3.LSP_Followed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/3_L_LiskovSubstitutionPrinciple/LSP-RULES/1_SignatureRule/1.MethodArgumentRule.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/3_L_LiskovSubstitutionPrinciple/LSP-RULES/1_SignatureRule/1.MethodArgumentRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/3_L_LiskovSubstitutionPrinciple/LSP-RULES/1_SignatureRule/2.ReturnTypeRule.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/3_L_LiskovSubstitutionPrinciple/LSP-RULES/1_SignatureRule/2.ReturnTypeRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/3_L_LiskovSubstitutionPrinciple/LSP-RULES/1_SignatureRule/3.ExceptionRule.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/3_L_LiskovSubstitutionPrinciple/LSP-RULES/1_SignatureRule/3.ExceptionRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/3_L_LiskovSubstitutionPrinciple/LSP-RULES/2_PropertyRule/1.ClassInvarient.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/3_L_LiskovSubstitutionPrinciple/LSP-RULES/2_PropertyRule/1.ClassInvarient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/3_L_LiskovSubstitutionPrinciple/LSP-RULES/2_PropertyRule/2.HistoryConstraint.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/3_L_LiskovSubstitutionPrinciple/LSP-RULES/2_PropertyRule/2.HistoryConstraint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/3_L_LiskovSubstitutionPrinciple/LSP-RULES/3_MethodRule/1.PreConditions.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/3_L_LiskovSubstitutionPrinciple/LSP-RULES/3_MethodRule/1.PreConditions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/3_L_LiskovSubstitutionPrinciple/LSP-RULES/3_MethodRule/2.PostConditions.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/3_L_LiskovSubstitutionPrinciple/LSP-RULES/3_MethodRule/2.PostConditions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/4_I_InterfaceSegregationPrinciple/1.ISP_followed.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/4_I_InterfaceSegregationPrinciple/2.ISP_violated.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3Br0Kl86mpGMB33L9meLY9RDjwv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Applications/IdeaProjectsNew/System-Design/SOLID/4_I_InterfaceSegregationPrinciple",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Applications\IdeaProjectsNew\System-Design\SOLID\4_I_InterfaceSegregationPrinciple" />
+      <recent name="D:\Applications\IdeaProjectsNew\System-Design\SOLID\3_L_LiskovSubstitutionPrinciple\LSP-RULES\3_MethodRule" />
+      <recent name="D:\Applications\IdeaProjectsNew\System-Design\SOLID\3_L_LiskovSubstitutionPrinciple\LSP-RULES" />
+      <recent name="D:\Applications\IdeaProjectsNew\System-Design\SOLID\3_L_LiskovSubstitutionPrinciple\LSP-RULES\2_PropertyRule" />
+      <recent name="D:\Applications\IdeaProjectsNew\System-Design\SOLID\3_L_LiskovSubstitutionPrinciple\LSP-RULES\1_SignatureRule" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="System-Design" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="System-Design" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.138" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.29346.138" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea2fd023-06d8-4e66-b0b9-cdecb13ab206" name="Changes" comment="" />
+      <created>1775231820330</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775231820330</updated>
+      <workItem from="1775231822212" duration="1644000" />
+      <workItem from="1775298129234" duration="10533000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
