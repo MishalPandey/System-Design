@@ -5,36 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea2fd023-06d8-4e66-b0b9-cdecb13ab206" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SOLID/1_S_SingleResponsiblityPrinciple/1.SRP_Voilated.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/1_S_SingleResponsiblityPrinciple/1.SRP_Voilated.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/1_S_SingleResponsiblityPrinciple/2.SRP_Followed.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/1_S_SingleResponsiblityPrinciple/2.SRP_Followed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/2_O_OpenClosePrinciple/1.OCP_Voilated.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/2_O_OpenClosePrinciple/1.OCP_Voilated.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/2_O_OpenClosePrinciple/2.OCP_Followed.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/2_O_OpenClosePrinciple/2.OCP_Followed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/3_L_LiskovSubstitutionPrinciple/1.LSP_Voilated.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/3_L_LiskovSubstitutionPrinciple/1.LSP_Voilated.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/3_L_LiskovSubstitutionPrinciple/2.LSP_Wrongly_Followed.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/3_L_LiskovSubstitutionPrinciple/2.LSP_Wrongly_Followed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/3_L_LiskovSubstitutionPrinciple/3.LSP_Followed.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/3_L_LiskovSubstitutionPrinciple/3.LSP_Followed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/3_L_LiskovSubstitutionPrinciple/LSP-RULES/1_SignatureRule/1.MethodArgumentRule.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/3_L_LiskovSubstitutionPrinciple/LSP-RULES/1_SignatureRule/1.MethodArgumentRule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/3_L_LiskovSubstitutionPrinciple/LSP-RULES/1_SignatureRule/2.ReturnTypeRule.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/3_L_LiskovSubstitutionPrinciple/LSP-RULES/1_SignatureRule/2.ReturnTypeRule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/3_L_LiskovSubstitutionPrinciple/LSP-RULES/1_SignatureRule/3.ExceptionRule.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/3_L_LiskovSubstitutionPrinciple/LSP-RULES/1_SignatureRule/3.ExceptionRule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/3_L_LiskovSubstitutionPrinciple/LSP-RULES/2_PropertyRule/1.ClassInvarient.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/3_L_LiskovSubstitutionPrinciple/LSP-RULES/2_PropertyRule/1.ClassInvarient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/3_L_LiskovSubstitutionPrinciple/LSP-RULES/2_PropertyRule/2.HistoryConstraint.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/3_L_LiskovSubstitutionPrinciple/LSP-RULES/2_PropertyRule/2.HistoryConstraint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/3_L_LiskovSubstitutionPrinciple/LSP-RULES/3_MethodRule/1.PreConditions.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/3_L_LiskovSubstitutionPrinciple/LSP-RULES/3_MethodRule/1.PreConditions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/3_L_LiskovSubstitutionPrinciple/LSP-RULES/3_MethodRule/2.PostConditions.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/3_L_LiskovSubstitutionPrinciple/LSP-RULES/3_MethodRule/2.PostConditions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/4_I_InterfaceSegregationPrinciple/1.ISP_followed.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/4_I_InterfaceSegregationPrinciple/2.ISP_violated.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.Singleton_Design_Pattern/1.NoSingleton.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.Singleton_Design_Pattern/1.NoSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.Singleton_Design_Pattern/2.SimpleSingleton.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.Singleton_Design_Pattern/2.SimpleSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.Singleton_Design_Pattern/3.ThreadSafeLockingSingleton.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.Singleton_Design_Pattern/3.ThreadSafeLockingSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.Singleton_Design_Pattern/4.ThreadSafeDoubleLockingSingleton.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.Singleton_Design_Pattern/4.ThreadSafeDoubleLockingSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.Singleton_Design_Pattern/5.ThreadSafeEagerSingleton.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.Singleton_Design_Pattern/5.ThreadSafeEagerSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.Singleton_Design_Pattern/6.ByPass_Singleton_using_waysIn_C++.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.Singleton_Design_Pattern/7.ByPass_Singleton_using_waysIn_C++.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +44,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Applications/IdeaProjectsNew/System-Design/SOLID/4_I_InterfaceSegregationPrinciple",
+    "last_opened_file_path": "D:/Applications/IdeaProjectsNew/System-Design/6.Singleton_Design_Pattern",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -72,11 +55,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Applications\IdeaProjectsNew\System-Design\SOLID\4_I_InterfaceSegregationPrinciple" />
-      <recent name="D:\Applications\IdeaProjectsNew\System-Design\SOLID\3_L_LiskovSubstitutionPrinciple\LSP-RULES\3_MethodRule" />
-      <recent name="D:\Applications\IdeaProjectsNew\System-Design\SOLID\3_L_LiskovSubstitutionPrinciple\LSP-RULES" />
-      <recent name="D:\Applications\IdeaProjectsNew\System-Design\SOLID\3_L_LiskovSubstitutionPrinciple\LSP-RULES\2_PropertyRule" />
-      <recent name="D:\Applications\IdeaProjectsNew\System-Design\SOLID\3_L_LiskovSubstitutionPrinciple\LSP-RULES\1_SignatureRule" />
+      <recent name="D:\Applications\IdeaProjectsNew\System-Design\6.Singleton_Design_Pattern" />
+      <recent name="D:\Applications\IdeaProjectsNew\System-Design" />
+      <recent name="D:\Applications\IdeaProjectsNew\System-Design\5.Factory_Design_Pattern" />
+      <recent name="D:\Applications\IdeaProjectsNew\System-Design\4.Strategy_Design_Pattern" />
+      <recent name="D:\Applications\IdeaProjectsNew\System-Design\3.DocumentEditor_Design\2.GoodDesign" />
     </key>
   </component>
   <component name="RunManager">
@@ -108,12 +91,24 @@
       <option name="presentableId" value="Default" />
       <updated>1775231820330</updated>
       <workItem from="1775231822212" duration="1644000" />
-      <workItem from="1775298129234" duration="10533000" />
+      <workItem from="1775298129234" duration="11398000" />
+      <workItem from="1775907063363" duration="9214000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/6.Singleton_Design_Pattern/2.SimpleSingleton.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
