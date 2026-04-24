@@ -5,18 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea2fd023-06d8-4e66-b0b9-cdecb13ab206" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/6.Singleton_Design_Pattern/1.NoSingleton.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.Singleton_Design_Pattern/1.NoSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.Singleton_Design_Pattern/2.SimpleSingleton.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.Singleton_Design_Pattern/2.SimpleSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.Singleton_Design_Pattern/3.ThreadSafeLockingSingleton.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.Singleton_Design_Pattern/3.ThreadSafeLockingSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.Singleton_Design_Pattern/4.ThreadSafeDoubleLockingSingleton.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.Singleton_Design_Pattern/4.ThreadSafeDoubleLockingSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.Singleton_Design_Pattern/5.ThreadSafeEagerSingleton.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.Singleton_Design_Pattern/5.ThreadSafeEagerSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.Singleton_Design_Pattern/6.ByPass_Singleton_using_waysIn_C++.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.Singleton_Design_Pattern/7.ByPass_Singleton_using_waysIn_C++.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +32,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Applications/IdeaProjectsNew/System-Design/6.Singleton_Design_Pattern",
+    "last_opened_file_path": "D:/Applications/IdeaProjectsNew/System-Design/9.Decorator_Design_Pattern",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -55,11 +43,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Applications\IdeaProjectsNew\System-Design\9.Decorator_Design_Pattern" />
+      <recent name="D:\Applications\IdeaProjectsNew\System-Design\8.Observer_Design_Pattern" />
+      <recent name="D:\Applications\IdeaProjectsNew\System-Design\7.Tomato_FoodDeliveryApp_Design\2.Tomato_java" />
+      <recent name="D:\Applications\IdeaProjectsNew\System-Design\7.Tomato_FoodDeliveryApp_Design" />
       <recent name="D:\Applications\IdeaProjectsNew\System-Design\6.Singleton_Design_Pattern" />
-      <recent name="D:\Applications\IdeaProjectsNew\System-Design" />
-      <recent name="D:\Applications\IdeaProjectsNew\System-Design\5.Factory_Design_Pattern" />
-      <recent name="D:\Applications\IdeaProjectsNew\System-Design\4.Strategy_Design_Pattern" />
-      <recent name="D:\Applications\IdeaProjectsNew\System-Design\3.DocumentEditor_Design\2.GoodDesign" />
     </key>
   </component>
   <component name="RunManager">
@@ -92,7 +80,9 @@
       <updated>1775231820330</updated>
       <workItem from="1775231822212" duration="1644000" />
       <workItem from="1775298129234" duration="11398000" />
-      <workItem from="1775907063363" duration="9214000" />
+      <workItem from="1775907063363" duration="10337000" />
+      <workItem from="1776168612302" duration="1188000" />
+      <workItem from="1776832144939" duration="1241000" />
     </task>
     <servers />
   </component>
